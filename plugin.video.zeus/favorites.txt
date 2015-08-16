@@ -1,0 +1,17 @@
+[
+    {
+        "url": "http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canphd38917199.m3u8", 
+        "image": "http://s6.postimg.org/eki7prtlt/1home.png", 
+        "name": "[COLOR lime]#A:-1 CANAL [/COLOR]        Played : 1148 Times"
+    }, 
+    {
+        "url": "http://zeusrepo.com/alpha/channel.php?link=sky_sports_1_hd", 
+        "image": "http://s6.postimg.org/nmt02ne75/skysports1.png", 
+        "name": "[COLOR lime]Sky Sports 1 HD [COLOR black](ZEUS)[/COLOR][/COLOR]"
+    }, 
+    {
+        "url": "http://zeusrepo.com/alpha/channel.php?link=mu_tv", 
+        "image": "http://s6.postimg.org/qxbhdqowx/mutv.jpg", 
+        "name": "[COLOR lime]MUFC TV [COLOR black](ZEUS)[/COLOR][/COLOR]"
+    }
+]
